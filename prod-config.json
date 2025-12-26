@@ -1,7 +1,7 @@
 {
   "Parameters": {
     "StageName": "prod",
-    "EndpointInstanceCount": "1",
+    "EndpointInstanceCount": "2",
     "EndpointInstanceType": "ml.m5.large",
     "SamplingPercentage": "80",
     "EnableDataCapture": "true"
